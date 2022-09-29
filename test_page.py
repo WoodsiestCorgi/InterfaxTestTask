@@ -1,5 +1,4 @@
 from playwright.sync_api import Page
-from playwright.sync_api import Browser
 import pytest
 import allure
 from models.TestPage import TestPage
